@@ -26,7 +26,7 @@
   - [ChatGPT 越狱](#chatgpt-越狱)
 - [相关资料](#相关资料)
 
-### [中文 prompts 精选](https://github.com/yzfly/wonderful-prompts) 🔥
+### [中文 prompts 精选](https://github.com/Finaplot/wonderful-prompts) 🔥
 
 作者优化、精选了系列中文 ChatGPT Prompts，并提供图文使用示例，让大家能够更好的学习使用 ChatGPT。
 
